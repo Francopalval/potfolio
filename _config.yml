@@ -1,9 +1,12 @@
 title: Franco Palenque
 logo: assets/foto_cv_circle.png
-theme: jekyll-theme-minimal
+theme: minima
+
 # Custom links
-links:
-  - title: "LinkedIn"
+social_links:
+  - name: "LinkedIn"
     url: "https://www.linkedin.com/in/francopalenque"
-  - title: "Tableau Visualizations"
-    url: "https://public.tableau.com/app/profile/franco.palenque.valdez/vizzes"
+    icon: "fab fa-linkedin"
+  - name: "Tableau Visualizations"
+    url: "https://public.tableau.com/profile/tu_usuario"
+    icon: "fas fa-chart-bar"
