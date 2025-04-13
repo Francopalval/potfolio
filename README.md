@@ -1,4 +1,4 @@
-# Data Scientist| Educator | Engineer
+# Data Scientist | Educator | Engineer
 
 ## Skills
 - **Data Analysis & Visualization**: Proficient in data preprocessing, exploratory analysis, and visualization using Python, R, Tableau, and SQL.
