@@ -17,7 +17,7 @@
 
 ## Work Experience
 - **Lecturer**, Universidad Privada Boliviana,
-  - Taught engineering courses, incorporating quantitative analysis and technical documentation techniques.
+  - Taught engineering courses, mathematics, statistics, probabilities and data analysis.
   - Researched innovative teaching methodologies, emphasizing data-driven evaluation of educational practices.
   - Supervised and reviewed graduation projects, fostering analytical and problem-solving skills in students.
 - **Reservoir Engineer**, Repsol E&P Bolivia,
