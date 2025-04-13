@@ -1,12 +1,6 @@
 title: Franco Palenque
-social:
-  - label: "Tableau Public"
-    icon: "fas fa-chart-bar"
-    url: "https://public.tableau.com/app/profile/franco.palenque.valdez/vizzes"
-  - label: "GitHub"
-    icon: "fab fa-github"
-    url: "https://github.com/Francopalval"
-  - label: "LinkedIn"
-    icon: "fab fa-linkedin"
-    url: "https://www.linkedin.com/in/francopalenque/"
+logo: assets/foto_cv_circle.png
+social_links:
+  - name: Tableau Public
+    url: https://public.tableau.com/app/profile/franco.palenque.valdez/vizzes
 theme: jekyll-theme-minimal
