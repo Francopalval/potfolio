@@ -39,3 +39,7 @@
 ## Languages
 - **Spanish**: Native
 - **English**: Bilingual Proficiency
+
+### Links
+- [LinkedIn](https://www.linkedin.com/in/francopalenque)
+- [Tableau Visualizations]([https://public.tableau.com/profile/tu_usuario](https://public.tableau.com/app/profile/franco.palenque.valdez))
