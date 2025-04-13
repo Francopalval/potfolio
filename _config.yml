@@ -2,5 +2,5 @@ title: Franco Palenque
 logo: assets/foto_cv_circle.png
 social_links:
   - name: Tableau Public
-  - url: https://public.tableau.com/app/profile/franco.palenque.valdez/vizzes
+    url: https://public.tableau.com/app/profile/franco.palenque.valdez/vizzes
 theme: jekyll-theme-minimal
